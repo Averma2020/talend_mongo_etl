@@ -1,0 +1,307 @@
+[
+{"storeid":4,"storename":"Contoso Bellevue Store","cityname":"Bellevue","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Luca Argentiero","storetype":"Store"}
+,{"storeid":156,"storename":"Contoso Cambridge Store","cityname":"Cambridge","stateprovincename":"England","regioncountryname":"United Kingdom","storemanager":"Cecilia Cornejo","storetype":"Store"}
+,{"storeid":88,"storename":"Contoso Cedar Park Store","cityname":"Cedar Park","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Yael Peled","storetype":"Store"}
+,{"storeid":214,"storename":"Contoso Leeds Store","cityname":"Leeds","stateprovincename":"England","regioncountryname":"United Kingdom","storemanager":"Justin Thorp","storetype":"Store"}
+,{"storeid":201,"storename":"Contoso London Store","cityname":"Londo","stateprovincename":"England","regioncountryname":"United Kingdom","storemanager":"Bart Dunca","storetype":"Store"}
+,{"storeid":215,"storename":"Contoso Paris Store","cityname":"Paris","stateprovincename":"Seine (Paris)","regioncountryname":"France","storemanager":"Anil Elso","storetype":"Store"}
+,{"storeid":309,"storename":"Contoso Europe Reseller","cityname":"Paris","stateprovincename":"Seine (Paris)","regioncountryname":"France","storemanager":"Anil Elso","storetype":"Reseller"}
+,{"storeid":17,"storename":"Contoso Spokane Store","cityname":"Spokane","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Chase Carpenter","storetype":"Store"}
+,{"storeid":253,"storename":"Contoso Sydney No.1 Store","cityname":"Sydney","stateprovincename":"New South Wales","regioncountryname":"Australia","storemanager":"Daniel ;ldschmidt","storetype":"Store"}
+,{"storeid":300,"storename":"Contoso Sydney  No.2 Store","cityname":"Sydney","stateprovincename":"New South Wales","regioncountryname":"Australia","storemanager":"Daniel ;ldschmidt","storetype":"Store"}
+,{"storeid":289,"storename":"Contoso Vancouver  No.1 Store","cityname":"Vancouver","stateprovincename":"British Columbia","regioncountryname":"Canada","storemanager":"Andrea Dunker","storetype":"Store"}
+,{"storeid":290,"storename":"Contoso Vancouver  No.2 Store","cityname":"Vancouver","stateprovincename":"British Columbia","regioncountryname":"Canada","storemanager":"Andrea Dunker","storetype":"Store"}
+,{"storeid":22,"storename":"Contoso Westminster Store","cityname":"Westminster","stateprovincename":"British Columbia","regioncountryname":"Canada","storemanager":"Eiji Yasuda","storetype":"Store"}
+,{"storeid":6,"storename":"Contoso Yakima Store","cityname":"Yakima","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Zainal Arifi","storetype":"Store"}
+,{"storeid":204,"storename":"Contoso York Store","cityname":"York","stateprovincename":"England","regioncountryname":"United Kingdom","storemanager":"Mark Steele","storetype":"Store"}
+,{"storeid":79,"storename":"Contoso Baytown Store","cityname":"Baytow","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Peter Bankov","storetype":"Store"}
+,{"storeid":228,"storename":"Contoso Berlin Store","cityname":"Berli","stateprovincename":"Berli","regioncountryname":"Germany","storemanager":"Kelly Weadock","storetype":"Store"}
+,{"storeid":306,"storename":"Contoso Europe Online Store","cityname":"Berli","stateprovincename":"Berli","regioncountryname":"Germany","storemanager":"Kelly Weadock","storetype":"Online"}
+,{"storeid":291,"storename":"Contoso Calgary  Store","cityname":"Calgary","stateprovincename":"Alberta","regioncountryname":"Canada","storemanager":"Martin Spona","storetype":"Store"}
+,{"storeid":16,"storename":"Contoso Everett Store","cityname":"Everett","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Anahita Bahrami","storetype":"Store"}
+,{"storeid":212,"storename":"Contoso Liverpool Store","cityname":"Liverpool","stateprovincename":"England","regioncountryname":"United Kingdom","storemanager":"Iben Thorell","storetype":"Store"}
+,{"storeid":5,"storename":"Contoso Redmond Store","cityname":"Redmond","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Suriya Sajjateerakool","storetype":"Store"}
+,{"storeid":15,"storename":"Contoso Renton Store","cityname":"Rento","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Robin Wakefield","storetype":"Store"}
+,{"storeid":1,"storename":"Contoso Seattle No.1 Store","cityname":"Seattle","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Roy Antebi","storetype":"Store"}
+,{"storeid":2,"storename":"Contoso Seattle No.2 Store","cityname":"Seattle","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Roy Antebi","storetype":"Store"}
+,{"storeid":308,"storename":"Contoso North America Reseller","cityname":"Seattle","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Roy Antebi","storetype":"Reseller"}
+,{"storeid":264,"storename":"Contoso Ashgabat No.1 Store","cityname":"Ashgabat","stateprovincename":"Ahal Province","regioncountryname":"Turkmenista","storemanager":"Allan Guinot","storetype":"Store"}
+,{"storeid":298,"storename":"Contoso Ashgabat  No.2 Store","cityname":"Ashgabat","stateprovincename":"Ahal Province","regioncountryname":"Turkmenista","storemanager":"Allan Guinot","storetype":"Store"}
+,{"storeid":262,"storename":"Contoso Bangkok No.1 Store","cityname":"Bangkok","stateprovincename":"Krung Thep","regioncountryname":"Thailand","storemanager":"Mary Anderse","storetype":"Store"}
+,{"storeid":296,"storename":"Contoso Bangkok No.2 Store","cityname":"Bangkok","stateprovincename":"Krung Thep","regioncountryname":"Thailand","storemanager":"Mary Anderse","storetype":"Store"}
+,{"storeid":279,"storename":"Contoso Beijing Store","cityname":"Beijing","stateprovincename":"Beijing","regioncountryname":"China","storemanager":"Nuria ;nzalez","storetype":"Store"}
+,{"storeid":307,"storename":"Contoso Asia Online Store","cityname":"Beijing","stateprovincename":"Beijing","regioncountryname":"China","storemanager":"Nuria ;nzalez","storetype":"Online"}
+,{"storeid":310,"storename":"Contoso Asia Reseller","cityname":"Beijing","stateprovincename":"Beijing","regioncountryname":"China","storemanager":"Nuria ;nzalez","storetype":"Reseller"}
+,{"storeid":276,"storename":"Contoso Bishkek Store","cityname":"Bishkek","stateprovincename":"Chuy Province","regioncountryname":"Kyrgyzsta","storemanager":"Enrique Gil","storetype":"Store"}
+,{"storeid":275,"storename":"Contoso Busan Store","cityname":"Busan ","stateprovincename":"Yeongnam","regioncountryname":"South Korea","storemanager":"Nikolay Grachev","storetype":"Store"}
+,{"storeid":252,"storename":"Contoso Canberra Store","cityname":"Canberra","stateprovincename":"Molonglo","regioncountryname":"Australia","storemanager":"Jossef ;ldberg","storetype":"Store"}
+,{"storeid":261,"storename":"Contoso Damascus No.1 Store","cityname":"Damascus","stateprovincename":"Damascus","regioncountryname":"Syria","storemanager":"Cesar Garcia","storetype":"Store"}
+,{"storeid":295,"storename":"Contoso Damascus No.2 Store","cityname":"Damascus","stateprovincename":"Damascus","regioncountryname":"Syria","storemanager":"Cesar Garcia","storetype":"Store"}
+,{"storeid":280,"storename":"Contoso Guangzhou Store","cityname":"Guangzhou","stateprovincename":"GuangDong","regioncountryname":"China","storemanager":"Stuart Glasso","storetype":"Store"}
+,{"storeid":259,"storename":"Contoso Hong Kong No.1 Store","cityname":"Hong Kong","stateprovincename":"Hong Kong","regioncountryname":"China","storemanager":"Janet Galore","storetype":"Store"}
+,{"storeid":293,"storename":"Contoso Hong Kong No.2 Store","cityname":"Hong Kong","stateprovincename":"Hong Kong","regioncountryname":"China","storemanager":"Janet Galore","storetype":"Store"}
+,{"storeid":265,"storename":"Contoso Islamabad No.1 Store","cityname":"Islamabad","stateprovincename":"Islamabad Capital Territory","regioncountryname":"Pakista","storemanager":"Davide Garghentini","storetype":"Store"}
+,{"storeid":299,"storename":"Contoso Islamabad  No.2 Store","cityname":"Islamabad","stateprovincename":"Islamabad Capital Territory","regioncountryname":"Pakista","storemanager":"Davide Garghentini","storetype":"Store"}
+,{"storeid":257,"storename":"Contoso Kolkata Store","cityname":"Kolkata ","stateprovincename":"West Bengal","regioncountryname":"India","storemanager":"Mike Gahrns","storetype":"Store"}
+,{"storeid":273,"storename":"Contoso Kyoto Store","cityname":"Kyoto ","stateprovincename":"Kansai","regioncountryname":"Japa","storemanager":"Kirk Gregerse","storetype":"Store"}
+,{"storeid":256,"storename":"Contoso Mumbai Store","cityname":"Mumbai ","stateprovincename":"Maharashtra","regioncountryname":"India","storemanager":"David Hamilto","storetype":"Store"}
+,{"storeid":271,"storename":"Contoso Na;ya Store","cityname":"Na;ya ","stateprovincename":"Chubu","regioncountryname":"Japa","storemanager":"Carlos Grilo","storetype":"Store"}
+,{"storeid":255,"storename":"Contoso New Delhi Store","cityname":"New Delhi","stateprovincename":"National Capital Territory of Delhi","regioncountryname":"India","storemanager":"Kari Furse","storetype":"Store"}
+,{"storeid":270,"storename":"Contoso Osaka No.1 Store","cityname":"Osaka ","stateprovincename":"Kansai","regioncountryname":"Japa","storemanager":"Christa Geller","storetype":"Store"}
+,{"storeid":301,"storename":"Contoso Osaka No.2 Store","cityname":"Osaka ","stateprovincename":"Kansai","regioncountryname":"Japa","storemanager":"Christa Geller","storetype":"Store"}
+,{"storeid":272,"storename":"Contoso Sapporo Store","cityname":"Sapporo ","stateprovincename":"Hokkaido","regioncountryname":"Japa","storemanager":"Tom Getzinger","storetype":"Store"}
+,{"storeid":274,"storename":"Contoso Seoul Store","cityname":"Seoul","stateprovincename":"Seoul-jikhalsi","regioncountryname":"South Korea","storemanager":"Leo Giakoumakis","storetype":"Store"}
+,{"storeid":277,"storename":"Contoso Shanghai No.1 Store","cityname":"Shanghai","stateprovincename":"Shanghai","regioncountryname":"China","storemanager":"Mojca ;stincar","storetype":"Store"}
+,{"storeid":281,"storename":"Contoso Shanghai No.2 Store","cityname":"Shanghai","stateprovincename":"Shanghai","regioncountryname":"China","storemanager":"Mojca ;stincar","storetype":"Store"}
+,{"storeid":251,"storename":"Contoso Singapore Store","cityname":"Singapore","stateprovincename":"Singapore","regioncountryname":"Singapore","storemanager":"Jim Hance","storetype":"Store"}
+,{"storeid":302,"storename":"Contoso Taipei  Store","cityname":"Taipei","stateprovincename":"Taiwa","regioncountryname":"Taiwa","storemanager":"Ming-Yang Xie","storetype":"Store"}
+,{"storeid":260,"storename":"Contoso Tehran No.1 Store","cityname":"Tehra","stateprovincename":"Tehra","regioncountryname":"Ira","storemanager":"Adina Hagege","storetype":"Store"}
+,{"storeid":294,"storename":"Contoso Tehran No.2 Store","cityname":"Tehra","stateprovincename":"Tehra","regioncountryname":"Ira","storemanager":"Adina Hagege","storetype":"Store"}
+,{"storeid":258,"storename":"Contoso Thimphu No.1 Store","cityname":"Thimphu","stateprovincename":"Thimphu District","regioncountryname":"Bhuta","storemanager":"Dean Halstead","storetype":"Store"}
+,{"storeid":292,"storename":"Contoso Thimphu No.2 Store","cityname":"Thimphu","stateprovincename":"Thimphu District","regioncountryname":"Bhuta","storemanager":"Dean Halstead","storetype":"Store"}
+,{"storeid":267,"storename":"Contoso Tokyo No.1 Store","cityname":"Tokyo","stateprovincename":"Kanto","regioncountryname":"Japa","storemanager":"Inbar Gazit","storetype":"Store"}
+,{"storeid":268,"storename":"Contoso Tokyo No.2 Store","cityname":"Tokyo","stateprovincename":"Kanto","regioncountryname":"Japa","storemanager":"Inbar Gazit","storetype":"Store"}
+,{"storeid":278,"storename":"Contoso Urumqi Store","cityname":"Urumqi","stateprovincename":"Xinjiang","regioncountryname":"China","storemanager":"Eric Gilmore","storetype":"Store"}
+,{"storeid":254,"storename":"Contoso Yerevan Store","cityname":"Yereva","stateprovincename":"Armenia","regioncountryname":"Armenia","storemanager":"Gerhard ;eschl","storetype":"Store"}
+,{"storeid":269,"storename":"Contoso Yokohama Store","cityname":"Yokohama ","stateprovincename":"Kanto","regioncountryname":"Japa","storemanager":"Seth Grossma","storetype":"Store"}
+,{"storeid":240,"storename":"Contoso Amsterdam Store","cityname":"Amsterdam","stateprovincename":"Noord-Holland","regioncountryname":"the Netherlands","storemanager":"Jeff Ford","storetype":"Store"}
+,{"storeid":250,"storename":"Contoso Athens Store","cityname":"Athens","stateprovincename":"Central Greece and Evvoia","regioncountryname":"Greece ","storemanager":"Gabe Frost","storetype":"Store"}
+,{"storeid":209,"storename":"Contoso Baildon Store","cityname":"Baildo","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Josh Edwards","storetype":"Store"}
+,{"storeid":236,"storename":"Contoso Baumholder Store","cityname":"Baumholder","stateprovincename":"Rhineland-Palatinate","regioncountryname":"Germany ","storemanager":"William Flash","storetype":"Store"}
+,{"storeid":246,"storename":"Contoso Berne Store","cityname":"Berne","stateprovincename":"Ber","regioncountryname":"Switzerland ","storemanager":"Joel Frauenheim","storetype":"Store"}
+,{"storeid":245,"storename":"Contoso Bucharest Store","cityname":"Bucharest","stateprovincename":"Bucuresti","regioncountryname":"Romania ","storemanager":"Mark Harringto","storetype":"Store"}
+,{"storeid":205,"storename":"Contoso Carlisle Store","cityname":"Carlisle","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Witold Dyszkiewicz","storetype":"Store"}
+,{"storeid":210,"storename":"Contoso Cheshire Store","cityname":"Cheshire","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Sandhya Thodla","storetype":"Store"}
+,{"storeid":241,"storename":"Contoso Copenhagen Store","cityname":"Copenhage","stateprovincename":"Staden Kobenhav","regioncountryname":"Denmark       ","storemanager":"Aziz Hassouneh","storetype":"Store"}
+,{"storeid":249,"storename":"Contoso Dublin Store","cityname":"Dubli","stateprovincename":"Leinster","regioncountryname":"Ireland ","storemanager":"Claus Hanse","storetype":"Store"}
+,{"storeid":234,"storename":"Contoso Dusseldorf Store","cityname":"Dusseldorf","stateprovincename":"North Rhine-Westphalia","regioncountryname":"Germany ","storemanager":"Franziska Fiegler","storetype":"Store"}
+,{"storeid":202,"storename":"Contoso Edinburgh Store","cityname":"Edinburgh","stateprovincename":"Scotland","regioncountryname":"United Kingdom","storemanager":"Jeff Stammler","storetype":"Store"}
+,{"storeid":224,"storename":"Contoso Firenze Store","cityname":"Firenze","stateprovincename":"Province of Florence","regioncountryname":"Italy    ","storemanager":"Peter Villadse","storetype":"Store"}
+,{"storeid":237,"storename":"Contoso Giebelstadt Store","cityname":"Giebelstadt","stateprovincename":"Bavaria","regioncountryname":"Germany ","storemanager":"Robin Wood","storetype":"Store"}
+,{"storeid":203,"storename":"Contoso Glas;w Store","cityname":"Glas;w","stateprovincename":"Scotland","regioncountryname":"United Kingdom","storemanager":"Shelley Dyck","storetype":"Store"}
+,{"storeid":231,"storename":"Contoso Hofheim Store","cityname":"Hofheim am Taunus","stateprovincename":"Hesse","regioncountryname":"Germany ","storemanager":"Martin Weber","storetype":"Store"}
+,{"storeid":213,"storename":"Contoso Knotty Ash Store","cityname":"Knotty Ash","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Patrick Elliott","storetype":"Store"}
+,{"storeid":230,"storename":"Contoso koln No.2 Store","cityname":"Kol","stateprovincename":"North Rhine-Westphalia","regioncountryname":"Germany ","storemanager":"Yaniv Feinberg","storetype":"Store"}
+,{"storeid":232,"storename":"Contoso koln No.1 Store","cityname":"Kol","stateprovincename":"North Rhine-Westphalia","regioncountryname":"Germany ","storemanager":"Dan Fennell","storetype":"Store"}
+,{"storeid":207,"storename":"Contoso Lancashire Store","cityname":"Lancashire","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Terry Earls","storetype":"Store"}
+,{"storeid":233,"storename":"Contoso Landstuhl Store","cityname":"Landstuhl","stateprovincename":"Rhineland-Palatinate","regioncountryname":"Germany ","storemanager":"Cindy White","storetype":"Store"}
+,{"storeid":303,"storename":"Contoso Lisbon Store","cityname":"Lisbo","stateprovincename":"Lisboa Regio","regioncountryname":"Portugal","storemanager":"Antonio Alwa","storetype":"Store"}
+,{"storeid":244,"storename":"Contoso Ljubljana Store","cityname":"Ljubljana","stateprovincename":"Ljubljana","regioncountryname":"Slovenia","storemanager":"Soren Francker","storetype":"Store"}
+,{"storeid":217,"storename":"Contoso Lyon Store","cityname":"Lyo","stateprovincename":"Rhone-Alpes ","regioncountryname":"France","storemanager":"Michael Enti","storetype":"Store"}
+,{"storeid":243,"storename":"Contoso Madrid Store","cityname":"Madrid","stateprovincename":"Madrid","regioncountryname":"Spai","storemanager":"Arno Harteveld","storetype":"Store"}
+,{"storeid":206,"storename":"Contoso Manchester Store","cityname":"Manchester","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Brad Sutto","storetype":"Store"}
+,{"storeid":216,"storename":"Contoso Marseille Store","cityname":"Marseille","stateprovincename":"Provence-Alpes-Cote d'Azur","regioncountryname":"France","storemanager":"Danielle Tiedt","storetype":"Store"}
+,{"storeid":226,"storename":"Contoso Milan Store","cityname":"Mila","stateprovincename":"Lombardia","regioncountryname":"Italy    ","storemanager":"Florian Voss","storetype":"Store"}
+,{"storeid":263,"storename":"Contoso Moscow  No.1 Store","cityname":"Moscow","stateprovincename":"Moskovskaya oblast","regioncountryname":"Russia","storemanager":"Hu; Garcia","storetype":"Store"}
+,{"storeid":297,"storename":"Contoso Moscow  No.2 Store","cityname":"Moscow","stateprovincename":"Moskovskaya oblast","regioncountryname":"Russia","storemanager":"Hu; Garcia","storetype":"Store"}
+,{"storeid":239,"storename":"Contoso Munich Store","cityname":"Munich","stateprovincename":"Bavaria","regioncountryname":"Germany ","storemanager":"Karin Zimprich","storetype":"Store"}
+,{"storeid":220,"storename":"Contoso Nantes Store","cityname":"Nantes","stateprovincename":"Pays de la Loire","regioncountryname":"France","storemanager":"Tjeerd Veninga","storetype":"Store"}
+,{"storeid":219,"storename":"Contoso Nice Store","cityname":"Nice","stateprovincename":"Alpes-Maritimes","regioncountryname":"France","storemanager":"Ebru Ersa","storetype":"Store"}
+,{"storeid":305,"storename":"Contoso Nizhny Nov;rod Store","cityname":"Nizhny Nov;rod ","stateprovincename":"Nizhny Nov;rod Oblast","regioncountryname":"Russia","storemanager":"Kim Akers","storetype":"Store"}
+,{"storeid":238,"storename":"Contoso obamberg Store","cityname":"Bamberg","stateprovincename":"Bavaria","regioncountryname":"Germany ","storemanager":"Raymond Fong","storetype":"Store"}
+,{"storeid":235,"storename":"Contoso Ramstein Store","cityname":"Ramstei","stateprovincename":"Rhineland-Palatinate","regioncountryname":"Germany ","storemanager":"Greg Winsto","storetype":"Store"}
+,{"storeid":222,"storename":"Contoso Roma Store","cityname":"Roma","stateprovincename":"Roma","regioncountryname":"Italy    ","storemanager":"Gre;ry Verny","storetype":"Store"}
+,{"storeid":304,"storename":"Contoso Saint Petersburg Store","cityname":"Saint Petersburg","stateprovincename":"Northwester","regioncountryname":"Russia","storemanager":"Miguel Saenz","storetype":"Store"}
+,{"storeid":242,"storename":"Contoso Stockholm Store","cityname":"Stockholm","stateprovincename":"Stockholms","regioncountryname":"Sweden ","storemanager":"Diane Forsyth","storetype":"Store"}
+,{"storeid":211,"storename":"Contoso Stockport Store","cityname":"Stockport","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Vladimir E;rov","storetype":"Store"}
+,{"storeid":221,"storename":"Contoso Strasbourg Store","cityname":"Strasbourg","stateprovincename":"Bas-Rhi","regioncountryname":"France","storemanager":"Modesto Estrada","storetype":"Store"}
+,{"storeid":225,"storename":"Contoso Torino Store","cityname":"Torino","stateprovincename":"Province of Turi","regioncountryname":"Italy    ","storemanager":"Antoine Faisandier","storetype":"Store"}
+,{"storeid":218,"storename":"Contoso Toulouse Store","cityname":"Toulouse","stateprovincename":"Midi-Pyrenees","regioncountryname":"France","storemanager":"Olinda Turner","storetype":"Store"}
+,{"storeid":248,"storename":"Contoso Valletta Store","cityname":"Valletta","stateprovincename":"Valletta","regioncountryname":"Malta","storemanager":"Victor Freitas","storetype":"Store"}
+,{"storeid":223,"storename":"Contoso Venezia Store","cityname":"Venezia","stateprovincename":"Venice","regioncountryname":"Italy    ","storemanager":"Ken Ewert","storetype":"Store"}
+,{"storeid":247,"storename":"Contoso Warsaw Store","cityname":"Warsaw","stateprovincename":"Warszawa","regioncountryname":"Poland ","storemanager":"Eran Harel","storetype":"Store"}
+,{"storeid":208,"storename":"Contoso West Yorkshire Store","cityname":"West Yorkshire","stateprovincename":"England ","regioncountryname":"United Kingdom","storemanager":"Bernard Tham","storetype":"Store"}
+,{"storeid":114,"storename":"Contoso Albany Store","cityname":"Albany","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Cristina Potra","storetype":"Store"}
+,{"storeid":184,"storename":"Contoso Alexandria Store","cityname":"Alexandria","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Jill Shrader","storetype":"Store"}
+,{"storeid":183,"storename":"Contoso Anchorage Store","cityname":"Anchorage","stateprovincename":"Alaska","regioncountryname":"United States","storemanager":"Chris Bryant","storetype":"Store"}
+,{"storeid":191,"storename":"Contoso Annapolis Store","cityname":"Annapolis","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Cari Dick","storetype":"Store"}
+,{"storeid":43,"storename":"Contoso Appleton Store","cityname":"Appleto","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Anne Wallace","storetype":"Store"}
+,{"storeid":93,"storename":"Contoso Arlington Store","cityname":"Arlingto","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Chris Bryant","storetype":"Store"}
+,{"storeid":141,"storename":"Contoso Atlantic City Store","cityname":"Atlantic City ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Michal Chmiela","storetype":"Store"}
+,{"storeid":150,"storename":"Contoso Attleboro Store","cityname":"Attleboro","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Aaron Co","storetype":"Store"}
+,{"storeid":40,"storename":"Contoso Aurora Store","cityname":"Aurora","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Allie Bellew","storetype":"Store"}
+,{"storeid":86,"storename":"Contoso Austin Store","cityname":"Austi","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Leonids Paturskis","storetype":"Store"}
+,{"storeid":197,"storename":"Contoso Back River Store","cityname":"Back River","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Chris Downs","storetype":"Store"}
+,{"storeid":81,"storename":"Contoso Bacliff Store","cityname":"Bacliff","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Bryan Bredehoeft","storetype":"Store"}
+,{"storeid":192,"storename":"Contoso Baltimore Store","cityname":"Baltimore","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Ashima Singhal","storetype":"Store"}
+,{"storeid":166,"storename":"Contoso Ban;r Store","cityname":"Ban;r","stateprovincename":"Maine","regioncountryname":"United States","storemanager":"Apurva Dalia","storetype":"Store"}
+,{"storeid":167,"storename":"Contoso Bar Harbor Store","cityname":"Bar Harbor","stateprovincename":"Maine","regioncountryname":"United States","storemanager":"Tihomir Sasic","storetype":"Store"}
+,{"storeid":137,"storename":"Contoso Bayonne Store","cityname":"Bayonne ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Aik Che","storetype":"Store"}
+,{"storeid":76,"storename":"Contoso Beaumont No.1 Store","cityname":"Beaumont","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Marc Boyer","storetype":"Store"}
+,{"storeid":78,"storename":"Contoso Beaumont No.2 Store","cityname":"Beaumont","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Marc Boyer","storetype":"Store"}
+,{"storeid":33,"storename":"Contoso Berthoud Store","cityname":"Berthoud","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Karolina Salas-Szlejter","storetype":"Store"}
+,{"storeid":199,"storename":"Contoso North America Online Store","cityname":"Bethesda","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Ben Smith","storetype":"Online"}
+,{"storeid":173,"storename":"Contoso Bridgeport Store","cityname":"Bridgeport","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"George Schaller","storetype":"Store"}
+,{"storeid":146,"storename":"Contoso Boston Store","cityname":"Bosto","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Kelly Rolli","storetype":"Store"}
+,{"storeid":37,"storename":"Contoso Boulder Store","cityname":"Boulder","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Oliver Szimmetat","storetype":"Store"}
+,{"storeid":121,"storename":"Contoso Brooklyn Store","cityname":"Brookly","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Mike Ray","storetype":"Store"}
+,{"storeid":119,"storename":"Contoso Buffalo Store","cityname":"Buffalo","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Vishwa Ranja","storetype":"Store"}
+,{"storeid":52,"storename":"Contoso Burlington Store","cityname":"Burlingto","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Carlos Carvallo","storetype":"Store"}
+,{"storeid":113,"storename":"Contoso Cape Canaveral Store","cityname":"Cape Canaveral","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Cyril Carbonati","storetype":"Store"}
+,{"storeid":145,"storename":"Contoso Cape May Store","cityname":"Cape May","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Alice Ciccu","storetype":"Store"}
+,{"storeid":28,"storename":"Contoso to_datele Rock Store","cityname":"to_datele Rock","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Rok Palcic","storetype":"Store"}
+,{"storeid":190,"storename":"Contoso Charleston Store","cityname":"Charleston ","stateprovincename":"South Carolina","regioncountryname":"United States","storemanager":"David Simpso","storetype":"Store"}
+,{"storeid":186,"storename":"Contoso Charlottesville Store","cityname":"Charlottesville ","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Alexandre Silva","storetype":"Store"}
+,{"storeid":19,"storename":"Contoso Cheney Store","cityname":"Cheney","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Dev Balasubramania","storetype":"Store"}
+,{"storeid":11,"storename":"Contoso Cle Elum Store","cityname":"Cle Elum","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Hans-Walter Untch","storetype":"Store"}
+,{"storeid":134,"storename":"Contoso Clifton Store","cityname":"Clifto","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Don Richardso","storetype":"Store"}
+,{"storeid":90,"storename":"Contoso Dallas Store","cityname":"Dallas","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Lori Penor","storetype":"Store"}
+,{"storeid":176,"storename":"Contoso Darien Store","cityname":"Darie","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Eric Daviso","storetype":"Store"}
+,{"storeid":98,"storename":"Contoso Denton Store","cityname":"Dento","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Terrence Philip","storetype":"Store"}
+,{"storeid":34,"storename":"Contoso Denver No.1 Store","cityname":"Denver","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Anna Bedecs","storetype":"Store"}
+,{"storeid":35,"storename":"Contoso Denver No.2 Store","cityname":"Denver","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Anna Bedecs","storetype":"Store"}
+,{"storeid":36,"storename":"Contoso Denver No.3 Store","cityname":"Denver","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Anna Bedecs","storetype":"Store"}
+,{"storeid":95,"storename":"Contoso Desoto Store","cityname":"Desoto","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Brian Burke","storetype":"Store"}
+,{"storeid":135,"storename":"Contoso East Orange Store","cityname":"East Orange ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Ankur Chavda","storetype":"Store"}
+,{"storeid":53,"storename":"Contoso East Troy Store","cityname":"East Troy","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Morten Rasmusse","storetype":"Store"}
+,{"storeid":63,"storename":"Contoso Edgerton Store","cityname":"Edgerto","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Tomasz Bochenek","storetype":"Store"}
+,{"storeid":126,"storename":"Contoso Elmira Store","cityname":"Elmira","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Barak Regev","storetype":"Store"}
+,{"storeid":20,"storename":"Contoso Englewood Store","cityname":"Englewood","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Steven Wright","storetype":"Store"}
+,{"storeid":14,"storename":"Contoso Fall City Store","cityname":"Fall City","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Vivian Atlas","storetype":"Store"}
+,{"storeid":163,"storename":"Contoso Falmouth Store","cityname":"Falmouth","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Patrick Sands","storetype":"Store"}
+,{"storeid":46,"storename":"Contoso Fond du Lac Store","cityname":"Fond du Lac","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Arvind Rao","storetype":"Store"}
+,{"storeid":64,"storename":"Contoso Fort Atkinson Store","cityname":"Fort Atkinso","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Toby Nixo","storetype":"Store"}
+,{"storeid":30,"storename":"Contoso Fort Collins Store","cityname":"Fort Collins","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Yossi Ra","storetype":"Store"}
+,{"storeid":109,"storename":"Contoso Fort Lauderdale Store","cityname":"Fort Lauderdale","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Jamie Campbell","storetype":"Store"}
+,{"storeid":99,"storename":"Contoso Fort Worth Store","cityname":"Fort Worth","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Rick Byham","storetype":"Store"}
+,{"storeid":155,"storename":"Contoso Framingham Store","cityname":"Framingham","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Michael Ruggiero","storetype":"Store"}
+,{"storeid":187,"storename":"Contoso Fredericksburg Store","cityname":"Fredericksburg","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Prashanth Desai","storetype":"Store"}
+,{"storeid":91,"storename":"Contoso Georgetown Store","cityname":"Georgetow","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Daniel Brunner","storetype":"Store"}
+,{"storeid":55,"storename":"Contoso Germantown Store","cityname":"Germantow","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Michael Berroth","storetype":"Store"}
+,{"storeid":198,"storename":"Contoso North Harford Store","cityname":"Germantow","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Michael Berroth","storetype":"Store"}
+,{"storeid":23,"storename":"Contoso Grand Junction Store","cityname":"Grand Junctio","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Ed Banti","storetype":"Store"}
+,{"storeid":94,"storename":"Contoso Grand Prairie Store","cityname":"Grand Prairie","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Wirote Petchdenlarp","storetype":"Store"}
+,{"storeid":7,"storename":"Contoso Granger Store","cityname":"Granger","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Amy Strande","storetype":"Store"}
+,{"storeid":25,"storename":"Contoso Greeley  No.1 Store","cityname":"Greeley","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Dave Barnett","storetype":"Store"}
+,{"storeid":31,"storename":"Contoso Greeley No.2 Store","cityname":"Greeley","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Dave Barnett","storetype":"Store"}
+,{"storeid":42,"storename":"Contoso Green Bay Store","cityname":"Green Bay","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Nuno Bento","storetype":"Store"}
+,{"storeid":189,"storename":"Contoso Greenville Store","cityname":"Greenville","stateprovincename":"South Carolina","regioncountryname":"United States","storemanager":"Michael DeVoe","storetype":"Store"}
+,{"storeid":140,"storename":"Contoso Hackensack Store","cityname":"Hackensack ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Titti Ringstrom","storetype":"Store"}
+,{"storeid":172,"storename":"Contoso Hartford Store","cityname":"Hartford","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Shannon Dascher","storetype":"Store"}
+,{"storeid":158,"storename":"Contoso Haverhill Store","cityname":"Haverhill","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Robin Counts","storetype":"Store"}
+,{"storeid":92,"storename":"Contoso Hillsboro Store","cityname":"Hillsboro","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Michel Pereira","storetype":"Store"}
+,{"storeid":153,"storename":"Contoso Hingham Store","cityname":"Hingham","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Erik Rucker","storetype":"Store"}
+,{"storeid":143,"storename":"Contoso Hoboken Store","cityname":"Hoboken ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Ray Chow","storetype":"Store"}
+,{"storeid":161,"storename":"Contoso Holyoke Store","cityname":"Holyoke","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Mandar Samant","storetype":"Store"}
+,{"storeid":66,"storename":"Contoso Houston No.1 Store","cityname":"Housto","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Fabricio Noriega","storetype":"Store"}
+,{"storeid":67,"storename":"Contoso Houston No.2 Store","cityname":"Housto","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Fabricio Noriega","storetype":"Store"}
+,{"storeid":68,"storename":"Contoso Houston No.3 Store","cityname":"Housto","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Fabricio Noriega","storetype":"Store"}
+,{"storeid":69,"storename":"Contoso Houston No.4 Store","cityname":"Housto","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Fabricio Noriega","storetype":"Store"}
+,{"storeid":193,"storename":"Contoso Howard Store","cityname":"Howard","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Cliff Didcock","storetype":"Store"}
+,{"storeid":84,"storename":"Contoso Humble Store","cityname":"Humble","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Dorena Paschke","storetype":"Store"}
+,{"storeid":123,"storename":"Contoso Ithaca Store","cityname":"Ithaca","stateprovincename":"New York","regioncountryname":"United States","storemanager":"April Reaga","storetype":"Store"}
+,{"storeid":103,"storename":"Contoso Jacksonville Store","cityname":"Jacksonville","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Pilar Pinilla","storetype":"Store"}
+,{"storeid":132,"storename":"Contoso Jersey City Store","cityname":"Jersey City","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Bjorn Rettig","storetype":"Store"}
+,{"storeid":168,"storename":"Contoso Kennebunkport Store","cityname":"Kennebunkport","stateprovincename":"Maine","regioncountryname":"United States","storemanager":"Jim Daly","storetype":"Store"}
+,{"storeid":3,"storename":"Contoso Kennewick Store","cityname":"Kennewick","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Prithvi Raj","storetype":"Store"}
+,{"storeid":112,"storename":"Contoso Key West Store","cityname":"Key West","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Josh Pollock","storetype":"Store"}
+,{"storeid":80,"storename":"Contoso La Porte Store","cityname":"La Porte","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Dan Park","storetype":"Store"}
+,{"storeid":27,"storename":"Contoso Lafayette Store","cityname":"Lafayette","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Adam Barr","storetype":"Store"}
+,{"storeid":108,"storename":"Contoso Lakeland Store","cityname":"Lakeland","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Ekaterina Podkolzina","storetype":"Store"}
+,{"storeid":152,"storename":"Contoso Leominster Store","cityname":"Leominster","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Kevin Cook","storetype":"Store"}
+,{"storeid":169,"storename":"Contoso Lewiston Store","cityname":"Lewisto","stateprovincename":"Maine","regioncountryname":"United States","storemanager":"Michiyo Sato","storetype":"Store"}
+,{"storeid":97,"storename":"Contoso Lewisville Store","cityname":"Lewisville","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Tzipi Butnaru","storetype":"Store"}
+,{"storeid":178,"storename":"Contoso Litchfield County Store","cityname":"Litchfield County","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Denis Dehenne","storetype":"Store"}
+,{"storeid":39,"storename":"Contoso Littleton Store","cityname":"Littleto","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Jeff Teper","storetype":"Store"}
+,{"storeid":75,"storename":"Contoso Longview Store","cityname":"Longview","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Scott Oveso","storetype":"Store"}
+,{"storeid":26,"storename":"Contoso Loveland Store","cityname":"Loveland","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Manuel Oliveira","storetype":"Store"}
+,{"storeid":151,"storename":"Contoso Lowell Store","cityname":"Lowell","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Pablo Rovira Diez","storetype":"Store"}
+,{"storeid":159,"storename":"Contoso Lynn Store","cityname":"Ly","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Ken Sánchez","storetype":"Store"}
+,{"storeid":60,"storename":"Contoso Madison Store","cityname":"Madiso","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Paulo Neves","storetype":"Store"}
+,{"storeid":59,"storename":"Contoso Manitowoc Store","cityname":"Manitowoc","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Ari Bixhor","storetype":"Store"}
+,{"storeid":74,"storename":"Contoso Marshall Store","cityname":"Marshall","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Thomas Bouchard","storetype":"Store"}
+,{"storeid":188,"storename":"Contoso Martinsville Store","cityname":"Martinsville ","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Alex Simmons","storetype":"Store"}
+,{"storeid":44,"storename":"Contoso Menasha Store","cityname":"Menasha","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Matt Berg","storetype":"Store"}
+,{"storeid":101,"storename":"Contoso Miami No.1 Store","cityname":"Miami","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Reina Cabatana","storetype":"Store"}
+,{"storeid":102,"storename":"Contoso Miami No.2 Store","cityname":"Miami","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Reina Cabatana","storetype":"Store"}
+,{"storeid":70,"storename":"Contoso Midland Store","cityname":"Midland","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Raffaella Bonaldi","storetype":"Store"}
+,{"storeid":32,"storename":"Contoso Milliken Store","cityname":"Millike","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Shaun Beasley","storetype":"Store"}
+,{"storeid":47,"storename":"Contoso Milwaukee No.1 Store","cityname":"Milwaukee","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Antonio Bermejo","storetype":"Store"}
+,{"storeid":48,"storename":"Contoso Milwaukee No.2 Store","cityname":"Milwaukee","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Antonio Bermejo","storetype":"Store"}
+,{"storeid":49,"storename":"Contoso Milwaukee No.3 Store","cityname":"Milwaukee","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Antonio Bermejo","storetype":"Store"}
+,{"storeid":72,"storename":"Contoso Minden Store","cityname":"Minde","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Laurent Bonnet","storetype":"Store"}
+,{"storeid":142,"storename":"Contoso Montclair Store","cityname":"Montclair ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"John Rodma","storetype":"Store"}
+,{"storeid":287,"storename":"Contoso Montreal No.1 Store","cityname":"Montreal","stateprovincename":"Quebec","regioncountryname":"Canada","storemanager":"Lorrin Smith-Bates","storetype":"Store"}
+,{"storeid":288,"storename":"Contoso Montreal No.2 Store","cityname":"Montreal","stateprovincename":"Quebec","regioncountryname":"Canada","storemanager":"Lorrin Smith-Bates","storetype":"Store"}
+,{"storeid":144,"storename":"Contoso Morristown Store","cityname":"Morristown ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Don Roessler","storetype":"Store"}
+,{"storeid":165,"storename":"Contoso Nantucket Store","cityname":"Nantucket","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Mark Sargent","storetype":"Store"}
+,{"storeid":149,"storename":"Contoso New Bedford Store","cityname":"New Bedford","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Daniel Roth","storetype":"Store"}
+,{"storeid":139,"storename":"Contoso New Brunswick Store","cityname":"New Brunswick ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Jeff Chia","storetype":"Store"}
+,{"storeid":24,"storename":"Contoso New to_datele Store","cityname":"New to_datele","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Mrina Nataraja","storetype":"Store"}
+,{"storeid":177,"storename":"Contoso New Haven Store","cityname":"New Haven ","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Boris Scholl","storetype":"Store"}
+,{"storeid":179,"storename":"Contoso New London Store","cityname":"New Londo","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Andreas Schou","storetype":"Store"}
+,{"storeid":115,"storename":"Contoso New York No.1 Store","cityname":"New York","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Jason Carlso","storetype":"Store"}
+,{"storeid":117,"storename":"Contoso New York No.2 Store","cityname":"New York","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Jason Carlso","storetype":"Store"}
+,{"storeid":130,"storename":"Contoso Newark No.1 Store","cityname":"Newark","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Greg Chapma","storetype":"Store"}
+,{"storeid":131,"storename":"Contoso Newark No.2 Store","cityname":"Newark","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Greg Chapma","storetype":"Store"}
+,{"storeid":180,"storename":"Contoso Norfolk Store","cityname":"Norfolk","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Axel Delgado","storetype":"Store"}
+,{"storeid":12,"storename":"Contoso North Bend Store","cityname":"North Bend","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Chris Ashto","storetype":"Store"}
+,{"storeid":200,"storename":"Contoso Catalog Store","cityname":"North Harford","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Jan Dryml","storetype":"Catalog"}
+,{"storeid":160,"storename":"Contoso Northampton Store","cityname":"Northampto","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Ioan Crisiarcu","storetype":"Store"}
+,{"storeid":175,"storename":"Contoso Old Saybrook Store","cityname":"Old Saybrook","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Rainer Schiller","storetype":"Store"}
+,{"storeid":77,"storename":"Contoso Orange Store","cityname":"Orange","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Tude Palma","storetype":"Store"}
+,{"storeid":61,"storename":"Contoso Ore;n Store","cityname":"Ore;","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Rex Bloesser","storetype":"Store"}
+,{"storeid":110,"storename":"Contoso Orlando Store","cityname":"Orlando","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Gri;ry Pogulsky","storetype":"Store"}
+,{"storeid":170,"storename":"Contoso Orono Store","cityname":"Orono","stateprovincename":"Maine","regioncountryname":"United States","storemanager":"Mike Danseglio","storetype":"Store"}
+,{"storeid":45,"storename":"Contoso Oshkosh Store","cityname":"Oshkosh","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"John Yokim","storetype":"Store"}
+,{"storeid":122,"storename":"Contoso Oswe; Store","cityname":"Oswe;","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Giorgio Cavaglieri","storetype":"Store"}
+,{"storeid":282,"storename":"Contoso Ottawa No.1 Store","cityname":"Ottawa","stateprovincename":"Ontario","regioncountryname":"Canada","storemanager":"Brian Smith","storetype":"Store"}
+,{"storeid":283,"storename":"Contoso Ottawa No.2 Store","cityname":"Ottawa","stateprovincename":"Ontario","regioncountryname":"Canada","storemanager":"Brian Smith","storetype":"Store"}
+,{"storeid":41,"storename":"Contoso Parker Store","cityname":"Parker","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Siri Velauthapillai","storetype":"Store"}
+,{"storeid":196,"storename":"Contoso Parkville Store","cityname":"Parkville","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Egil Skjold","storetype":"Store"}
+,{"storeid":83,"storename":"Contoso Pasadena Store","cityname":"Pasadena","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Alan Brewer","storetype":"Store"}
+,{"storeid":136,"storename":"Contoso Passaic Store","cityname":"Passaic ","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Wendy Richardso","storetype":"Store"}
+,{"storeid":133,"storename":"Contoso Paterson Store","cityname":"Paterso","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Neil Charney","storetype":"Store"}
+,{"storeid":162,"storename":"Contoso Pittsfield Store","cityname":"Pittsfield","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Scott Culp","storetype":"Store"}
+,{"storeid":100,"storename":"Contoso Plano Store","cityname":"Plano","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Michal Piaseczny","storetype":"Store"}
+,{"storeid":120,"storename":"Contoso Plattsburgh Store","cityname":"Plattsburgh","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Gitte Casparij","storetype":"Store"}
+,{"storeid":127,"storename":"Contoso Poestenkill Store","cityname":"Poestenkill","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Sean Chai","storetype":"Store"}
+,{"storeid":57,"storename":"Contoso Port Washington Store","cityname":"Port Washingto","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Jimmy Bischoff","storetype":"Store"}
+,{"storeid":164,"storename":"Contoso Provincetown Store","cityname":"Provincetow","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Pawel Czernek","storetype":"Store"}
+,{"storeid":195,"storename":"Contoso Queen Anne's County Store","cityname":"Queen Anne's County","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Blaine Dockter","storetype":"Store"}
+,{"storeid":125,"storename":"Contoso Queens Store","cityname":"Queens","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Luisa Cazzaniga","storetype":"Store"}
+,{"storeid":154,"storename":"Contoso Quincy Store","cityname":"Quincy","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Jim Corbi","storetype":"Store"}
+,{"storeid":51,"storename":"Contoso Racine No.1 Store","cityname":"Racine","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Corinna Bolender","storetype":"Store"}
+,{"storeid":65,"storename":"Contoso Racine No.2 Store","cityname":"Racine","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Corinna Bolender","storetype":"Store"}
+,{"storeid":96,"storename":"Contoso Richardson Store","cityname":"Richardso","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Palle Peterse","storetype":"Store"}
+,{"storeid":194,"storename":"Contoso Ridgely Store","cityname":"Ridgely","stateprovincename":"Maryland","regioncountryname":"United States","storemanager":"Bonnie Skelly","storetype":"Store"}
+,{"storeid":185,"storename":"Contoso Roanoke Store","cityname":"Roanoke","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Molly Dempsey","storetype":"Store"}
+,{"storeid":116,"storename":"Contoso Rochester No.1 Store","cityname":"Rochester","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Chris Presto","storetype":"Store"}
+,{"storeid":124,"storename":"Contoso Rochester No.2 Store","cityname":"Rochester","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Chris Presto","storetype":"Store"}
+,{"storeid":89,"storename":"Contoso Round Rock Store","cityname":"Round Rock","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Robert Brow","storetype":"Store"}
+,{"storeid":71,"storename":"Contoso Russellville Store","cityname":"Russellville","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Jerry Orma","storetype":"Store"}
+,{"storeid":87,"storename":"Contoso San Antonio Store","cityname":"San Antonio","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Allison Brow","storetype":"Store"}
+,{"storeid":107,"storename":"Contoso Sebring Store","cityname":"Sebring","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Maria Camero","storetype":"Store"}
+,{"storeid":29,"storename":"Contoso Sedalia Store","cityname":"Sedalia","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Shai Bassli","storetype":"Store"}
+,{"storeid":58,"storename":"Contoso Sheboygan Store","cityname":"Sheboyga","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Michael Neipper","storetype":"Store"}
+,{"storeid":73,"storename":"Contoso Shreveport Store","cityname":"Shreveport","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Danni Ortma","storetype":"Store"}
+,{"storeid":13,"storename":"Contoso Snoqualmie Store","cityname":"Snoqualmie","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Michael Vanderhyde","storetype":"Store"}
+,{"storeid":157,"storename":"Contoso Somerville Store","cityname":"Somerville","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Sharon Salavaria","storetype":"Store"}
+,{"storeid":171,"storename":"Contoso South Portland Store","cityname":"South Portland","stateprovincename":"Maine","regioncountryname":"United States","storemanager":"Rimvydas Saulis","storetype":"Store"}
+,{"storeid":85,"storename":"Contoso Spring Store","cityname":"Spring","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Nick Brigandi","storetype":"Store"}
+,{"storeid":62,"storename":"Contoso Stoughton Store","cityname":"Stoughto","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Aaron Nicholls","storetype":"Store"}
+,{"storeid":8,"storename":"Contoso Sunnyside Store","cityname":"Sunnyside","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Ties Arts","storetype":"Store"}
+,{"storeid":118,"storename":"Contoso Syracuse Store","cityname":"Syracuse","stateprovincename":"New York","regioncountryname":"United States","storemanager":"Fernando Caro","storetype":"Store"}
+,{"storeid":104,"storename":"Contoso Tallahassee No.1 Store","cityname":"Tallahassee","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Iulian Calinov","storetype":"Store"}
+,{"storeid":105,"storename":"Contoso Tallahassee No.2 Store","cityname":"Tallahassee","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Iulian Calinov","storetype":"Store"}
+,{"storeid":111,"storename":"Contoso Tampa Store","cityname":"Tampa","stateprovincename":"Florida","regioncountryname":"United States","storemanager":"Paul Canno","storetype":"Store"}
+,{"storeid":82,"storename":"Contoso Texas City Store","cityname":"Texas City","stateprovincename":"Texas","regioncountryname":"United States","storemanager":"Rajesh Patel","storetype":"Store"}
+,{"storeid":38,"storename":"Contoso Thornton Store","cityname":"Thornto","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Ann Beebe","storetype":"Store"}
+,{"storeid":9,"storename":"Contoso Toppenish Store","cityname":"Toppenish","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Daniel Taylor","storetype":"Store"}
+,{"storeid":284,"storename":"Contoso Toronto No.1 Store","cityname":"Toronto","stateprovincename":"Ontario","regioncountryname":"Canada","storemanager":"Bernard Duerr","storetype":"Store"}
+,{"storeid":285,"storename":"Contoso Toronto No.2 Store","cityname":"Toronto","stateprovincename":"Ontario","regioncountryname":"Canada","storemanager":"Bernard Duerr","storetype":"Store"}
+,{"storeid":286,"storename":"Contoso Toronto No.3 Store","cityname":"Toronto","stateprovincename":"Ontario","regioncountryname":"Canada","storemanager":"Bernard Duerr","storetype":"Store"}
+,{"storeid":128,"storename":"Contoso Trenton No.1 Store","cityname":"Trento","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Enoch Remick","storetype":"Store"}
+,{"storeid":129,"storename":"Contoso Trenton No.2 Store","cityname":"Trento","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Enoch Remick","storetype":"Store"}
+,{"storeid":18,"storename":"Contoso Veradale Store","cityname":"Veradale","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Pieter Wycoff","storetype":"Store"}
+,{"storeid":138,"storename":"Contoso Vineland Store","cityname":"Vineland","stateprovincename":"New Jersey","regioncountryname":"United States","storemanager":"Anders Riis","storetype":"Store"}
+,{"storeid":181,"storename":"Contoso Virginia Beach Store","cityname":"Virginia Beach","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Miguel Severino","storetype":"Store"}
+,{"storeid":10,"storename":"Contoso Wapato Store","cityname":"Wapato","stateprovincename":"Washingto","regioncountryname":"United States","storemanager":"Ronen Ashkenazi","storetype":"Store"}
+,{"storeid":174,"storename":"Contoso Waterbury Store","cityname":"Waterbury","stateprovincename":"Connecticut","regioncountryname":"United States","storemanager":"Andrew Davis","storetype":"Store"}
+,{"storeid":50,"storename":"Contoso Waukesha No.1 Store","cityname":"Waukesha","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Robert Zare","storetype":"Store"}
+,{"storeid":54,"storename":"Contoso Waukesha No.2 Store","cityname":"Waukesha","stateprovincename":"Wisconsi","regioncountryname":"United States","storemanager":"Robert Zare","storetype":"Store"}
+,{"storeid":21,"storename":"Contoso Wheat Ridge Store","cityname":"Wheat Ridge","stateprovincename":"Colorado","regioncountryname":"United States","storemanager":"Oliver Szimmetat","storetype":"Store"}
+,{"storeid":182,"storename":"Contoso Winchester Store","cityname":"Winchester","stateprovincename":"Virginia","regioncountryname":"United States","storemanager":"Luca Dellamore","storetype":"Store"}
+,{"storeid":147,"storename":"Contoso Worcester No.1 Store","cityname":"Worcester","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Izak Cohe","storetype":"Store"}
+,{"storeid":148,"storename":"Contoso Worcester No.2 Store","cityname":"Worcester","stateprovincename":"Massachusetts","regioncountryname":"United States","storemanager":"Izak Cohe","storetype":"Store"}
+]

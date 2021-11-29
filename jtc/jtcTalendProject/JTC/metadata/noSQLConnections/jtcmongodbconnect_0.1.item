@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendNoSQLMetadata:NoSQLConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendNoSQLMetadata="http://www.talend.org/nosql" xmi:id="_1CIV0E9ZEeykItu1kgTlVA" name="jtcmongodbconnect" label="jtcmongodbconnect" dbType="MONGODB">
+  <attributes xmi:id="_RdOEIE9fEeykItu1kgTlVA" key="DB_VERSION" value="MONGODB_3_5_X"/>
+  <attributes xmi:id="_RdOEIU9fEeykItu1kgTlVA" key="HOST" value="localhost"/>
+  <attributes xmi:id="_RdOrME9fEeykItu1kgTlVA" key="PORT" value="27017"/>
+  <attributes xmi:id="_RdOrMU9fEeykItu1kgTlVA" key="DATABASE" value="jtcdb"/>
+  <attributes xmi:id="_RdOrMk9fEeykItu1kgTlVA" key="REQUIRED_AUTHENTICATION" value="false"/>
+  <attributes xmi:id="_RdOrM09fEeykItu1kgTlVA" key="USERNAME" value=""/>
+  <attributes xmi:id="_RdOrNE9fEeykItu1kgTlVA" key="PASSWORD" value=""/>
+  <attributes xmi:id="_RdOrNU9fEeykItu1kgTlVA" key="USE_REPLICA_SET" value="false"/>
+  <attributes xmi:id="_RdOrNk9fEeykItu1kgTlVA" key="REPLICA_SET" value="[]"/>
+</TalendNoSQLMetadata:NoSQLConnection>

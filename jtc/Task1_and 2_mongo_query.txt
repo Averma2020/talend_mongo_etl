@@ -1,0 +1,136 @@
+Task1:Query average number of stocks on hand by category.
+
+Query:
+
+1) Average DaysInStock by product category
+
+ 
+db.FactStore.aggregate([{"$lookup": {"from": "DimProducts","localField": "ProductID","foreignField": "productid","as":"avgOnHandQty_details"}},
+	{"$unwind": "$avgOnHandQty_details"},
+	{"$group":{ "_id":{ "productcategoryname": "$avgOnHandQty_details.productcategoryname"},"avgnHandQty":{  "$avg": "$OnHandQty"}}},
+	{$addFields:{round_avgnHandQty: {$round:["$avgnHandQty"]}}}
+		]).pretty()
+
+ Outptut
+{
+	"_id" : {
+		"productcategoryname" : "Cameras and camcorders "
+	},
+	"avgnHandQty" : 20.67926907486834,
+	"round_avgnHandQty" : 21
+},
+
+/* 2 */
+{
+	"_id" : {
+		"productcategoryname" : "Cell phones"
+	},
+	"avgnHandQty" : 41.16605977663188,
+	"round_avgnHandQty" : 41
+},
+
+/* 3 */
+{
+	"_id" : {
+		"productcategoryname" : "Computers"
+	},
+	"avgnHandQty" : 21.73863693874828,
+	"round_avgnHandQty" : 22
+},
+
+/* 4 */
+{
+	"_id" : {
+		"productcategoryname" : "Games and Toys"
+	},
+	"avgnHandQty" : 75.91057615846165,
+	"round_avgnHandQty" : 76
+},
+
+/* 5 */
+{
+	"_id" : {
+		"productcategoryname" : "Home Appliances"
+	},
+	"avgnHandQty" : 20.28480982976129,
+	"round_avgnHandQty" : 20
+},
+
+/* 6 */
+{
+	"_id" : {
+		"productcategoryname" : "TV and Video"
+	},
+	"avgnHandQty" : 20.413036681950814,
+	"round_avgnHandQty" : 20
+},
+
+/* 7 */
+{
+	"_id" : {
+		"productcategoryname" : "Music, Movies and Audio Books"
+	},
+	"avgnHandQty" : 18.86934555493405,
+	"round_avgnHandQty" : 19
+},
+
+/* 8 */
+{
+	"_id" : {
+		"productcategoryname" : "Audio"
+	},
+	"avgnHandQty" : 21.75158076962575,
+	"round_avgnHandQty" : 22
+}
+
+
+
+
+Task2:Query average number of stocks on hand by store.
+
+db.FactStore.aggregate([{"$lookup": 
+			{"from": "DimStores","localField": "StoreID","foreignField": "storeid","as": "avgOnHandByStore_details"}},
+			{"$unwind": "$avgOnHandByStore_details"},
+			{"$group":{ "_id":{ "storetype": "$avgOnHandByStore_details.storetype"},"avgnHandQty":{  "$avg": "$OnHandQty"}}},
+			{$addFields:{round_avgnHandQty: {$ceil:["$avgnHandQty"]}}}
+		        ]).pretty()
+
+
+
+Output
+
+/* 1 */
+{
+	"_id" : {
+		"storetype" : "Catalog"
+	},
+	"avgnHandQty" : 58.059337655733536,
+	"round_avgnHandQty" : 59
+},
+
+/* 2 */
+{
+	"_id" : {
+		"storetype" : "Reseller"
+	},
+	"avgnHandQty" : 36.1727101592396,
+	"round_avgnHandQty" : 37
+},
+
+/* 3 */
+{
+	"_id" : {
+		"storetype" : "Online"
+	},
+	"avgnHandQty" : 46.90951924191797,
+	"round_avgnHandQty" : 47
+},
+
+/* 4 */
+{
+	"_id" : {
+		"storetype" : "Store"
+	},
+	"avgnHandQty" : 21.584948602576453,
+	"round_avgnHandQty" : 22
+}
